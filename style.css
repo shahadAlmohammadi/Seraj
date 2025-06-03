@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: linear-gradient(120deg, #e0f7fa, #f1f8e9);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .scene {
+    text-align: center;
+  }
+  
+  #character {
+    width: 300px;
+    transition: transform 0.3s ease;
+  }
+  
